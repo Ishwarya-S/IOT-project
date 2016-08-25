@@ -1,0 +1,1 @@
+2016-08-25 10:53:35,233   ibmiotf.application.Client  CRITICAL Failed to connect to the IBM Internet of Things service: .messaging.internetofthings.ibmcloud.com - [Errno 11001] getaddrinfo failed
